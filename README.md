@@ -14,6 +14,6 @@ Weights_NN_functions.ipynb : contains some useful functions to store the weight 
 
 Plot_TrueColor_ncdf4.py : python script to plot an approximated true-color GOES16 image, from ncdf4 files.
 
-Plot_BT_grib2.py : python script to plot te variables values, from a grib2 file.
+Plot_BT_grib2.py : python script to plot the variables values, from a grib2 file.
 
 download_grib2files_py3.py : python script used to download all the 2017 grib2 files from the university of Utah website and put them in the s3 bucket 'remi'.
